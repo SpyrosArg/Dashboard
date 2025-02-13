@@ -2,7 +2,6 @@
 
 A modern, production-ready web application for managing cybersecurity access requests across different departments. The portal features a sleek, glass-morphism design with animated gradients and a focus on user experience.
 
-![Cybersecurity Portal](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070)
 
 ## Tech Stack
 
